@@ -9,4 +9,5 @@ First use: visit [the documentation on how to set up everything](https://fablabb
 git clone git@github.com:fablabbcn/mdef-template.git
 ```
 
+Hello
 You can visit the template demo here: https://fablabbcn.github.io/mdef-template/
