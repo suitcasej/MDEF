@@ -30,4 +30,17 @@ Conductivity and Zn electrodeposition behavior
 
 The paper states that they "found the chitosan-Zn membrane serves as an excellent Zn2+ electrolyte with a high Zn2+ ionic conductivity and advantageous Zn plating behavior.Using the chitosan-Zn electrolyte with 57% water content, the cell shows a Coulombic ef- ficiency of $99.5% after 100 cycles, indicating excellent Zn plating/stripping reversibility. The chitosan-Zn electrolyte with a lower water content of 34% showed a low Coulombic efficiency of <2% and the chitosan-Zn elec- trolyte with more water (72%) showed a Coulombic efficiency of <99% in the first ten cycles but then significantly fluctuated over subsequent cycles, showing a poor reversibility."
 
- 
+Electrochemical performance
+
+With the chitosan-Zn electrolyte, they achieved excellent cycling performance and long lifespan in symmetric Zn-metal batteries at high current densities
+
+Non-flammability and biodegradability
+
+The chitosan-Zn electrolyte is a gel solution that only shrinks and becomes soft when placed in a flame. Components such as the chitosan polymer and the  make the electrolyte non-flammable which ensures the high safety of the Zn-metal batteries. To test its biodegradability, the chitosan-Zn electrolyte was placed in soil and after two months, the gel started to degrade. After 5 months, the gel completely degraded.
+
+![](../images/MT01/chitinBiodegradable.jpg)
+
+
+Reflections
+
+This paper gave me an example of how chitosan can be used for electrical purposes. I have an interest in anolog synthesizers and 3D printers that are powered by the sun and I think this paper could be a reference point for how to store solar energy with natural materials such as chitosan and zinc. 
