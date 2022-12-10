@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Biology & Agri 0
 
 After discovering the article "Battery made of crab shell and zinc is rechargeable and biodegradable" in the NewScientist, I was intrigued by yet another application chitin/chitosan can be used for. In this case, the application was Zinc metal batteries for the purposes of storing renewable energies such as solar, wind and the ocean. The article written by Christa Lesté-Lasserre summarizes the scientific paper and demonstration conducted by Meiling Wu, Ye Zhang, Lin Xu, Chunpeng Yang, Min Hong, Mingjin Cui, Bryson C. Clifford, Shuaiming He, Shuangshuang Jing, Yan Yao, and Liangbing Hu. After initially reading it, I thought about how versatile chitosan is as an extracted material. However, new discoveries of chitin's material properties makes me wonder how armored or protected crustecaeans are. Do these creatures benefit from these properties as well? Is there more that could be learned from their nature that could help us understand our relationship at a macro level? 
@@ -13,7 +18,7 @@ To address the challenges, efforts have been devoted to modifying the electrolyt
 Material fabrication and characterization
 
 Membrane:
-1. Cast the chitosan solution (4 wt % chitosan in 4 wt % acetic acid aqueous solution <vinegar?>) on a PET plastic support. Then, immediately immersed it into a Zn^2+ -saturated NaOH solution (0.6 wt % Zn^2+) to obtain the chitosan-Zn membrane.
+1. Cast the chitosan solution (4 wt % chitosan in 4 wt % acetic acid aqueous solution) on a PET plastic support. Then, immediately immersed it into a Zn^2+ -saturated NaOH solution (0.6 wt % Zn^2+) to obtain the chitosan-Zn membrane.
 2. Rinsed the membrane with water until the pH of the washing solution was 7, followed by mechanically pressing at a pressure of ~5 MPa to produce the final densified chitosan-Zn membrane.
 
 Electrolyte:
