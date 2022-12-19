@@ -6,7 +6,7 @@ hide:
 # Design Intervention
 
 
-![](../images/PlantBandFlyer.jpeg)
+![](../images/PlantBandFlyer.jpg)
 
 ## The Plant Band
 
