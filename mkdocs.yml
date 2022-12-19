@@ -2,7 +2,7 @@
 site_name: Jordan Hodges - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Jordan Hodges
-copyright: Copyleft 2021 "Student Name" - GNU Free Documentation License
+copyright: Copyleft 2021 "Jordan Hodges" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -16,7 +16,11 @@ nav:
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
+          - studio: term1/01-studio.md
           - AoWS: term1/02-Atlas of Weak Signals.md
+          - BioAgri: term1/BioAgri.md
+          - Community Engagement: term1/Community Engagement.md
+          - Extended Intelligences: term1/Extented Intelligences.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
