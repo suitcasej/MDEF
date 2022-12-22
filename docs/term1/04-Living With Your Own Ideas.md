@@ -24,4 +24,4 @@ As far as the challenge it self, I woke up naturally with no alarm and I got to 
 
 To get an accurate answer to my initial question, I would need to leave the time grid for more than 24hrs. I would say several weeks off the grid would allow me to conceptualize the potential of design with a new meaning of time. 
 
-[[Divest From Standard Time](https://drive.google.com/file/d/1Zfv_aZZ_o2P1T8JtdPhaPIlDE3e2Pjfz/view?usp=sharing)
+[[Divest From Standard Time](https://drive.google.com/file/d/1Zfv_aZZ_o2P1T8JtdPhaPIlDE3e2Pjfz/view?usp=sharing)]
