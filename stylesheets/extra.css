@@ -6,11 +6,15 @@
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
-    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    --mdc-typography-font-family: 'AOMono', sans-serif;
     --md-typeset-a-color: rgb(12, 240, 190);
 
 }
 
+@font-face {
+  font-family: "AOMono";
+  src: "fonts/AOMono-Regular.otf";
+} 
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
