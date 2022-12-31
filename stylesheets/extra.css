@@ -5,8 +5,8 @@
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
-    --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
-    --mdc-typography-font-family: 'AOMono', sans-serif;
+    --mdc-typography-headline6-font-family: 'AOMono';
+    --mdc-typography-font-family: 'AOMono';
     --md-typeset-a-color: rgb(12, 240, 190);
 
 }
