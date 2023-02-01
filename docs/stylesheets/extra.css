@@ -1,13 +1,13 @@
 :root>* {
 
-    --md-footer-bg-color: white;
+    --md-footer-bg-color: #F2E8D9;
     --md-footer-fg-color: rgb(32, 32, 32);
-    --md-footer-bg-color--dark: white;
+    --md-footer-bg-color--dark: #F2E8D9;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'AOMono';
     --mdc-typography-font-family: 'AOMono';
-    --md-typeset-a-color: rgb(12, 240, 190);
+    --md-typeset-a-color: #DFBC8C;
 
 }
 
@@ -26,7 +26,7 @@
 
   .md-typeset .md-button--primary {
     border-width: 1px;
-    border-color: rgb(219, 219, 219);
+    border-color: #F2E8D9;
     border-radius: 4px;
   }
 

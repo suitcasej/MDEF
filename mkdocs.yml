@@ -44,10 +44,6 @@ extra:
 
 theme:
   name: material
-  palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: white
-    accent: green
   font:
     # See available fonts at https://fonts.google.com/
     text: AOMono
