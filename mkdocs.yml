@@ -7,7 +7,6 @@ repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
-
 nav:
   - Home: index.md
   - About: about/me.md
@@ -23,9 +22,8 @@ nav:
           - Tech Beyond the Myth: term1/05-Tech Beyond the Myth.md
           - Community Engagement: term1/06-Community Engagement.md
           - Extended Intelligences: term1/07-Extended Intelligences.md
-
-
-
+      - Term 2:
+          - Prototyping for Design: term2/Prototyping For Design.md
 
 
 extra:
@@ -44,6 +42,10 @@ extra:
 
 theme:
   name: material
+  palette:
+    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    primary: white
+    accent: green
   font:
     # See available fonts at https://fonts.google.com/
     text: AOMono
