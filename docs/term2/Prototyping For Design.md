@@ -16,3 +16,10 @@ How could I communicate the importance of these electronics back to my community
 
 I am currently building another midi controller for plants using the esp32 so I used Amanda's Adafruit Circuit Playground Express for the challenge. Luckily, the board has a built-in buzzer and the board's library comes with tone features. There was a tutorial that I found that maps a music note to a number and so I could create any pattern I wanted. The tutorial's pattern was that of the Happy Birthday Song. I decided to re-arrange the pattern to play the Happy Birthday Song by Stevie Wonder. 
 
+
+## Week 1 Class 2 - Parameterization
+
+What initally attracted me to Iaac was the interesting parametric designs the students produce each year. I immediately wanted to know how I could learn to create these complex geometries as well. I wasn't able to attend class this day but my colleagues filled me in on what was learned. I have the Advanced 3D Printing with Grasshopper Book by Diego Garcia Cuevas and Gianluca Pugliese so I thought it would be the perfect time to learn how to create a shape. I created the shape that is on the cover of the book. It is a popular shape within the clay 3D printing space but I was always intimidated by how it was created. Doing this exercise gave me a boost of confidence in using Rhino and Grasshopper. I have used the tools before but I never got comfortable with using it yet. 
+
+![](../images/3DPrintable Blobby.png)
+
