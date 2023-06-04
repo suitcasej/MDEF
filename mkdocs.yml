@@ -3,16 +3,16 @@ site_name: Jordan Hodges - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Jordan Hodges
 copyright: Copyleft 2021 "Jordan Hodges" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
+repo_name: "Name : Github Repo"
 site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+repo_url: "https://github.com/fablabbcn/mdef-template"
 
 nav:
   - Home: index.md
   - About: about/me.md
   - Thesis Projects:
       - Design Intervention: project/project.md
-  - Reflections :
+  - Reflections:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - studio: term1/01-studio.md
@@ -24,7 +24,7 @@ nav:
           - Extended Intelligences: term1/07-Extended Intelligences.md
       - Term 2:
           - Prototyping for Design: term2/Prototyping For Design.md
-
+          - Making Sense and Meaning: term2/Making Sense and Meaning.md
 
 extra:
   social:
@@ -103,7 +103,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
-      base_path: 'docs'
+      base_path: "docs"
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
